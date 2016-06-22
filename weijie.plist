@@ -1,0 +1,44 @@
+ 	<?xml version="1.0" encoding="UTF-8"?>  
+ 	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+ 	<plist version="1.0">  
+ 	<dict>  
+ 	    <key>items</key>  
+ 	    <array>  
+ 	        <dict>  
+ 	            <key>assets</key>  
+ 	            <array>  
+ 	                <dict>  
+ 	                    <key>kind</key>  
+ 	                    <string>software-package</string>  
+ 	                    <key>url</key>  
+ 	                    <string>http://weijie56.cn/app/%E5%94%AF%E6%8D%B7%E5%9F%8E%E9%85%8D.ipa</string>  
+ 	                </dict>  
+ 	                <dict>  
+ 	                    <key>kind</key>  
+ 	                    <string>full-size-image</string>  
+ 	                    <key>needs-shine</key>  
+ 	                    <true/>  
+ 	                    <key>url</key>  
+ 	                    <string>http://weijie56.cn/app/img_loading.png</string>  
+ 	                </dict>  
+ 	                <dict>  
+ 	                    <key>kind</key>  
+ 	                    <string>display-image</string>  
+ 	                    <key>needs-shine</key>  
+ 	                    <true/>  
+ 	                    <key>url</key>  
+ 	                    <string>http://weijie56.cn/app/img_loading_finsh.png</string>  
+ 	                </dict>  
+ 	            </array>  
+ 	            <key>metadata</key>  
+ 	            <dict>  
+ 	                <key>bundle-identifier</key>  
+ 	                <string>com.wj.ps</string>  
+ 	                <key>bundle-version</key>  
+ 	                <string>1.0</string>  
+ 	                <key>kind</key>  
+ 	                <string>software</string>  
+ 	                <key>title</key>  
+ 	                <string>wjcp</string>  
+ 	            </dict>  
+ 	        </dict> 
